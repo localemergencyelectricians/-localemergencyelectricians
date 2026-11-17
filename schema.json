@@ -1,0 +1,1006 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Electrician",
+      "@id": "https://localemergencyelectrician.com/#localbusiness",
+      "name": "Local Emergency Electrician",
+      "alternateName": [
+        "Pro Electrician",
+        "Electric Pro"
+      ],
+      "legalName": "Local Emergency Electrician",
+      "description": "Licensed electricians for emergency electrical repair, panel upgrades, rewiring, EV charger installation, generators, lighting and more. Fast response, upfront pricing and code-compliant work for homes.",
+      "slogan": "Fast, safe electrical help when you need it",
+      "url": "https://localemergencyelectrician.com/",
+      "mainEntityOfPage": "https://localemergencyelectrician.com/",
+      "telephone": "+1-844-957-4676",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://localemergencyelectrician.com/#logo",
+        "url": "https://localemergencyelectrician.com/images/local-emergency-electricians-logo.webp",
+        "contentUrl": "https://localemergencyelectrician.com/images/trident-electric-pro-logo.webp"
+      },
+      "image": [
+        "https://localemergencyelectrician.com/images/local-emergency-electricians-logo.webp"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2701 S Figueroa St",
+        "addressLocality": "Los Angeles",
+        "addressRegion": "CA",
+        "postalCode": "90007",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.026935,
+        "longitude": -118.277231
+      },
+      "currenciesAccepted": "USD",
+      "paymentAccepted": "Visa, Mastercard, American Express, Discover, PayPal, Cash",
+      "priceRange": "$$",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "08:00",
+          "closes": "18:00"
+        }
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+1-844-957-4676",
+          "contactType": "customer service",
+          "areaServed": "US",
+          "availableLanguage": "English"
+        }
+      ],
+      "foundingDate": "2011-11-11",
+      "foundingLocation": {
+        "@type": "Place",
+        "name": "Los Angeles, CA",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 34.026935,
+          "longitude": -118.277231
+        }
+      },
+      "founder": {
+        "@type": "Person",
+        "name": "Jennifer",
+        "jobTitle": "Founder"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Los Angeles"
+        },
+        {
+          "@type": "State",
+          "name": "Alabama"
+        },
+        {
+          "@type": "State",
+          "name": "Arizona"
+        },
+        {
+          "@type": "State",
+          "name": "Arkansas"
+        },
+        {
+          "@type": "State",
+          "name": "California"
+        },
+        {
+          "@type": "State",
+          "name": "Colorado"
+        },
+        {
+          "@type": "State",
+          "name": "Connecticut"
+        },
+        {
+          "@type": "State",
+          "name": "Delaware"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "District of Columbia"
+        },
+        {
+          "@type": "State",
+          "name": "Florida"
+        },
+        {
+          "@type": "State",
+          "name": "Georgia"
+        },
+        {
+          "@type": "State",
+          "name": "Hawaii"
+        },
+        {
+          "@type": "State",
+          "name": "Idaho"
+        },
+        {
+          "@type": "State",
+          "name": "Illinois"
+        },
+        {
+          "@type": "State",
+          "name": "Indiana"
+        },
+        {
+          "@type": "State",
+          "name": "Iowa"
+        },
+        {
+          "@type": "State",
+          "name": "Kansas"
+        },
+        {
+          "@type": "State",
+          "name": "Kentucky"
+        },
+        {
+          "@type": "State",
+          "name": "Louisiana"
+        },
+        {
+          "@type": "State",
+          "name": "Maine"
+        },
+        {
+          "@type": "State",
+          "name": "Maryland"
+        },
+        {
+          "@type": "State",
+          "name": "Massachusetts"
+        },
+        {
+          "@type": "State",
+          "name": "Michigan"
+        },
+        {
+          "@type": "State",
+          "name": "Minnesota"
+        },
+        {
+          "@type": "State",
+          "name": "Mississippi"
+        },
+        {
+          "@type": "State",
+          "name": "Missouri"
+        },
+        {
+          "@type": "State",
+          "name": "Montana"
+        },
+        {
+          "@type": "State",
+          "name": "Nebraska"
+        },
+        {
+          "@type": "State",
+          "name": "Nevada"
+        },
+        {
+          "@type": "State",
+          "name": "New Hampshire"
+        },
+        {
+          "@type": "State",
+          "name": "New Jersey"
+        },
+        {
+          "@type": "State",
+          "name": "New Mexico"
+        },
+        {
+          "@type": "State",
+          "name": "New York"
+        },
+        {
+          "@type": "State",
+          "name": "North Carolina"
+        },
+        {
+          "@type": "State",
+          "name": "North Dakota"
+        },
+        {
+          "@type": "State",
+          "name": "Ohio"
+        },
+        {
+          "@type": "State",
+          "name": "Oklahoma"
+        },
+        {
+          "@type": "State",
+          "name": "Pennsylvania"
+        },
+        {
+          "@type": "State",
+          "name": "Rhode Island"
+        },
+        {
+          "@type": "State",
+          "name": "South Carolina"
+        },
+        {
+          "@type": "State",
+          "name": "Tennessee"
+        },
+        {
+          "@type": "State",
+          "name": "Texas"
+        },
+        {
+          "@type": "State",
+          "name": "Utah"
+        },
+        {
+          "@type": "State",
+          "name": "Virginia"
+        },
+        {
+          "@type": "State",
+          "name": "Washington"
+        },
+        {
+          "@type": "State",
+          "name": "West Virginia"
+        },
+        {
+          "@type": "State",
+          "name": "Wisconsin"
+        },
+        {
+          "@type": "State",
+          "name": "Wyoming"
+        },
+        {
+          "@type": "Country",
+          "name": "United States"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Electrical Services",
+        "url": "https://localemergencyelectrician.com/services/",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/#services",
+              "name": "Electrical Services",
+              "url": "https://localemergencyelectrician.com/services/",
+              "serviceType": "Electrical Services",
+              "description": "Full-service electrical contractor for repairs, new wiring, panel upgrades, lighting and modern electrical systems across residential and multifamily properties.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/electrical-repairs#service",
+              "name": "Electrical Repairs",
+              "url": "https://localemergencyelectrician.com/services/electrical-repairs",
+              "serviceType": "Electrical Repairs and Troubleshooting",
+              "description": "Fast diagnosis and repair of power outages, tripping breakers, dead outlets, flickering lights, burning smells and faulty wiring, including emergency callouts.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/electrical-installation#service",
+              "name": "Electrical Installation",
+              "url": "https://localemergencyelectrician.com/services/electrical-installation",
+              "serviceType": "Electrical Installation",
+              "description": "Professional installation of new circuits, outlets, switches, light fixtures, ceiling fans and smoke and CO detectors, done to local code.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/electrical-panel-upgrades#service",
+              "name": "Electrical Panel Upgrades",
+              "url": "https://localemergencyelectrician.com/services/electrical-panel-upgrades",
+              "serviceType": "Electrical Panel and Service Upgrades",
+              "description": "Replace outdated or overloaded breaker panels with 100A, 200A or larger service for safer power, more capacity and room for EV chargers and additions.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/electrical-wiring#service",
+              "name": "Electrical Wiring and Rewiring",
+              "url": "https://localemergencyelectrician.com/services/electrical-wiring",
+              "serviceType": "Electrical Wiring and Rewiring",
+              "description": "New circuits, 240V wiring, garage and detached-building wiring, and whole-home rewiring to replace old knob-and-tube or aluminum wiring.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/lighting-electrical-fixtures#service",
+              "name": "Lighting and Electrical Fixtures",
+              "url": "https://localemergencyelectrician.com/services/lighting-electrical-fixtures",
+              "serviceType": "Lighting and Electrical Fixtures",
+              "description": "Recessed lighting, outdoor and landscape lighting, chandeliers, ceiling fans and dimmers installed or repaired for better light and lower energy use.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/switches-outlets#service",
+              "name": "Switches and Outlets",
+              "url": "https://localemergencyelectrician.com/services/switches-outlets",
+              "serviceType": "Switches and Outlets",
+              "description": "Install, replace or repair switches and outlets, including GFCI and AFCI protection, USB outlets, dimmers and smart switches.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/baseboard-wall-heaters#service",
+              "name": "Baseboard and Wall Heater Electrical",
+              "url": "https://localemergencyelectrician.com/services/baseboard-wall-heaters",
+              "serviceType": "Baseboard and Wall Heater Electrical",
+              "description": "Electric baseboard and wall heater wiring, dedicated circuits, thermostat hookups and replacements for reliable, safe heating.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/ev-charger-installation#service",
+              "name": "EV Charger Installation",
+              "url": "https://localemergencyelectrician.com/services/ev-charger-installation",
+              "serviceType": "EV Charger Installation",
+              "description": "Home Level 2 EV charger installation for Tesla and other EVs, with dedicated 240V circuits, permits and panel upgrades when needed.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/generator-services#service",
+              "name": "Generator Services",
+              "url": "https://localemergencyelectrician.com/services/generator-services",
+              "serviceType": "Generator and Backup Power Services",
+              "description": "Standby and whole-home generator installation, transfer switches, wiring, maintenance and repair to keep your power on during outages.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/surge-protection#service",
+              "name": "Surge Protection",
+              "url": "https://localemergencyelectrician.com/services/surge-protection",
+              "serviceType": "Whole-House Surge Protection",
+              "description": "Whole-house surge protectors installed at your panel to shield appliances, electronics and wiring from voltage spikes and lightning.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/smart-home-electrical#service",
+              "name": "Smart Home Electrical",
+              "url": "https://localemergencyelectrician.com/services/smart-home-electrical",
+              "serviceType": "Smart Home Electrical",
+              "description": "Smart switches, dimmers, lighting control, security camera wiring and automation-ready electrical upgrades for a connected home.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/pool-hot-tub-electrical#service",
+              "name": "Pool and Hot Tub Electrical",
+              "url": "https://localemergencyelectrician.com/services/pool-hot-tub-electrical",
+              "serviceType": "Pool and Hot Tub Electrical",
+              "description": "Code-compliant pool and spa wiring, equipment hookups, underwater lighting, GFCI protection and bonding for safe backyard installs and repairs.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/new-home-electrical#service",
+              "name": "New Home Electrical",
+              "url": "https://localemergencyelectrician.com/services/new-home-electrical",
+              "serviceType": "New Construction Electrical",
+              "description": "Complete electrical for new construction: load planning, panel and service setup, rough-in wiring, outlets, lighting and final inspection support.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/home-addition-electrical#service",
+              "name": "Home Addition Electrical",
+              "url": "https://localemergencyelectrician.com/services/home-addition-electrical",
+              "serviceType": "Home Addition Electrical",
+              "description": "Wiring, subpanels and circuits for room additions, ADUs and garage conversions, sized to handle the added load safely.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/remodeling-electrical#service",
+              "name": "Remodeling Electrical",
+              "url": "https://localemergencyelectrician.com/services/remodeling-electrical",
+              "serviceType": "Remodeling Electrical",
+              "description": "Electrical for kitchen, bathroom and basement remodels, including updated circuits, GFCI outlets, lighting plans and code upgrades.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          },
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://localemergencyelectrician.com/services/multifamily-electrical#service",
+              "name": "Multifamily Electrical",
+              "url": "https://localemergencyelectrician.com/services/multifamily-electrical",
+              "serviceType": "Multifamily Electrical Services",
+              "description": "Apartment and condo electrical work for property managers: unit repairs, meter bank and panel upgrades, common-area lighting, EV chargers and code corrections.",
+              "provider": {
+                "@id": "https://localemergencyelectrician.com/#localbusiness"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "United States"
+              }
+            }
+          }
+        ]
+      },
+      "knowsAbout": [
+        "Emergency Electrical Repair",
+        "Electrical Troubleshooting",
+        "Circuit Breaker Repair",
+        "Electrical Code Corrections",
+        "Electrical Installation",
+        "Dedicated Circuit Installation",
+        "120V and 240V Circuits",
+        "Outlet and Switch Installation",
+        "Ceiling Fan Installation",
+        "Smoke and CO Detector Installation",
+        "Electrical Panel Upgrades",
+        "Subpanel Installation",
+        "Electrical Service Upgrades",
+        "Grounding and Bonding",
+        "Whole-Home Rewiring",
+        "Garage and Detached Building Wiring",
+        "Recessed Lighting",
+        "Outdoor Lighting",
+        "GFCI and AFCI Protection",
+        "Smart Switches and Dimmers",
+        "Baseboard and Wall Heater Wiring",
+        "Level 2 EV Charger Installation",
+        "Standby and Whole-House Generators",
+        "Transfer Switch Installation",
+        "Whole-House Surge Protection",
+        "Smart Home Wiring",
+        "Pool and Hot Tub Electrical",
+        "New Construction Electrical",
+        "Home Addition Wiring",
+        "Remodel Electrical",
+        "Commercial Electrical",
+        "Multifamily Electrical",
+        "Meter Bank Upgrades"
+      ],
+      "sameAs": [
+        "https://www.pinterest.com/localemergencyelectrician/",
+        "https://www.instagram.com/localemergencyelectrician/",
+        "https://www.facebook.com/localemergencyelectrician",
+        "https://www.linkedin.com/company/localemergencyelectrician"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://localemergencyelectrician.com/#website",
+      "url": "https://localemergencyelectrician.com/",
+      "name": "Local Emergency Electrician",
+      "description": "Emergency and residential electrical services,: repairs, panel upgrades, rewiring, EV chargers, generators and lighting.",
+      "inLanguage": "en-US",
+      "publisher": {
+        "@id": "https://localemergencyelectrician.com/#localbusiness"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electrician",
+          "sameAs": "https://en.wikipedia.org/wiki/Electrician"
+        },
+        {
+          "@type": "Thing",
+          "name": "Electrical Wiring",
+          "sameAs": "https://en.wikipedia.org/wiki/Electrical_wiring"
+        },
+        {
+          "@type": "Thing",
+          "name": "Distribution Board (Electrical Panel)",
+          "sameAs": "https://en.wikipedia.org/wiki/Distribution_board"
+        },
+        {
+          "@type": "Thing",
+          "name": "Circuit Breaker",
+          "sameAs": "https://en.wikipedia.org/wiki/Circuit_breaker"
+        },
+        {
+          "@type": "Thing",
+          "name": "Lighting",
+          "sameAs": "https://en.wikipedia.org/wiki/Lighting"
+        },
+        {
+          "@type": "Thing",
+          "name": "Electrical Safety",
+          "sameAs": "https://en.wikipedia.org/wiki/Electrical_safety"
+        }
+      ]
+    },
+    {
+      "@type": "AboutPage",
+      "@id": "https://localemergencyelectrician.com/about#about-us",
+      "url": "https://localemergencyelectrician.com/about",
+      "name": "About Local Emergency Electrician",
+      "isPartOf": {
+        "@id": "https://localemergencyelectrician.com/#website"
+      },
+      "about": {
+        "@id": "https://localemergencyelectrician.com/#localbusiness"
+      }
+    },
+    {
+      "@type": "ContactPage",
+      "@id": "https://localemergencyelectrician.com/contact#contact-us",
+      "url": "https://localemergencyelectrician.com/contact",
+      "name": "Contact Local Emergency Electrician",
+      "isPartOf": {
+        "@id": "https://localemergencyelectrician.com/#website"
+      },
+      "about": {
+        "@id": "https://localemergencyelectrician.com/#localbusiness"
+      }
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://localemergencyelectrician.com/locations/#locations",
+      "url": "https://localemergencyelectrician.com/locations/",
+      "name": "Electrician Service Locations",
+      "description": "Local Emergency Electrician serves Los Angeles, CA and 47 other states and districts. Find your state for emergency repairs, panel upgrades, EV chargers and more.",
+      "isPartOf": {
+        "@id": "https://localemergencyelectrician.com/#website"
+      },
+      "about": {
+        "@id": "https://localemergencyelectrician.com/#localbusiness"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Electrician in Alabama",
+            "url": "https://localemergencyelectrician.com/locations/alabama"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Electrician in Arizona",
+            "url": "https://localemergencyelectrician.com/locations/arizona"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Electrician in Arkansas",
+            "url": "https://localemergencyelectrician.com/locations/arkansas"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Electrician in California",
+            "url": "https://localemergencyelectrician.com/locations/california"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Electrician in Colorado",
+            "url": "https://localemergencyelectrician.com/locations/colorado"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Electrician in Connecticut",
+            "url": "https://localemergencyelectrician.com/locations/connecticut"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "Electrician in Delaware",
+            "url": "https://localemergencyelectrician.com/locations/delaware"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "Electrician in District of Columbia",
+            "url": "https://localemergencyelectrician.com/locations/district-of-columbia"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "Electrician in Florida",
+            "url": "https://localemergencyelectrician.com/locations/florida"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "name": "Electrician in Georgia",
+            "url": "https://localemergencyelectrician.com/locations/georgia"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
+            "name": "Electrician in Hawaii",
+            "url": "https://localemergencyelectrician.com/locations/hawaii"
+          },
+          {
+            "@type": "ListItem",
+            "position": 12,
+            "name": "Electrician in Idaho",
+            "url": "https://localemergencyelectrician.com/locations/idaho"
+          },
+          {
+            "@type": "ListItem",
+            "position": 13,
+            "name": "Electrician in Illinois",
+            "url": "https://localemergencyelectrician.com/locations/illinois"
+          },
+          {
+            "@type": "ListItem",
+            "position": 14,
+            "name": "Electrician in Indiana",
+            "url": "https://localemergencyelectrician.com/locations/indiana"
+          },
+          {
+            "@type": "ListItem",
+            "position": 15,
+            "name": "Electrician in Iowa",
+            "url": "https://localemergencyelectrician.com/locations/iowa"
+          },
+          {
+            "@type": "ListItem",
+            "position": 16,
+            "name": "Electrician in Kansas",
+            "url": "https://localemergencyelectrician.com/locations/kansas"
+          },
+          {
+            "@type": "ListItem",
+            "position": 17,
+            "name": "Electrician in Kentucky",
+            "url": "https://localemergencyelectrician.com/locations/kentucky"
+          },
+          {
+            "@type": "ListItem",
+            "position": 18,
+            "name": "Electrician in Louisiana",
+            "url": "https://localemergencyelectrician.com/locations/louisiana"
+          },
+          {
+            "@type": "ListItem",
+            "position": 19,
+            "name": "Electrician in Maine",
+            "url": "https://localemergencyelectrician.com/locations/maine"
+          },
+          {
+            "@type": "ListItem",
+            "position": 20,
+            "name": "Electrician in Maryland",
+            "url": "https://localemergencyelectrician.com/locations/maryland"
+          },
+          {
+            "@type": "ListItem",
+            "position": 21,
+            "name": "Electrician in Massachusetts",
+            "url": "https://localemergencyelectrician.com/locations/massachusetts"
+          },
+          {
+            "@type": "ListItem",
+            "position": 22,
+            "name": "Electrician in Michigan",
+            "url": "https://localemergencyelectrician.com/locations/michigan"
+          },
+          {
+            "@type": "ListItem",
+            "position": 23,
+            "name": "Electrician in Minnesota",
+            "url": "https://localemergencyelectrician.com/locations/minnesota"
+          },
+          {
+            "@type": "ListItem",
+            "position": 24,
+            "name": "Electrician in Mississippi",
+            "url": "https://localemergencyelectrician.com/locations/mississippi"
+          },
+          {
+            "@type": "ListItem",
+            "position": 25,
+            "name": "Electrician in Missouri",
+            "url": "https://localemergencyelectrician.com/locations/missouri"
+          },
+          {
+            "@type": "ListItem",
+            "position": 26,
+            "name": "Electrician in Montana",
+            "url": "https://localemergencyelectrician.com/locations/montana"
+          },
+          {
+            "@type": "ListItem",
+            "position": 27,
+            "name": "Electrician in Nebraska",
+            "url": "https://localemergencyelectrician.com/locations/nebraska"
+          },
+          {
+            "@type": "ListItem",
+            "position": 28,
+            "name": "Electrician in Nevada",
+            "url": "https://localemergencyelectrician.com/locations/nevada"
+          },
+          {
+            "@type": "ListItem",
+            "position": 29,
+            "name": "Electrician in New Hampshire",
+            "url": "https://localemergencyelectrician.com/locations/new-hampshire"
+          },
+          {
+            "@type": "ListItem",
+            "position": 30,
+            "name": "Electrician in New Jersey",
+            "url": "https://localemergencyelectrician.com/locations/new-jersey"
+          },
+          {
+            "@type": "ListItem",
+            "position": 31,
+            "name": "Electrician in New Mexico",
+            "url": "https://localemergencyelectrician.com/locations/new-mexico"
+          },
+          {
+            "@type": "ListItem",
+            "position": 32,
+            "name": "Electrician in New York",
+            "url": "https://localemergencyelectrician.com/locations/new-york"
+          },
+          {
+            "@type": "ListItem",
+            "position": 33,
+            "name": "Electrician in North Carolina",
+            "url": "https://localemergencyelectrician.com/locations/north-carolina"
+          },
+          {
+            "@type": "ListItem",
+            "position": 34,
+            "name": "Electrician in North Dakota",
+            "url": "https://localemergencyelectrician.com/locations/north-dakota"
+          },
+          {
+            "@type": "ListItem",
+            "position": 35,
+            "name": "Electrician in Ohio",
+            "url": "https://localemergencyelectrician.com/locations/ohio"
+          },
+          {
+            "@type": "ListItem",
+            "position": 36,
+            "name": "Electrician in Oklahoma",
+            "url": "https://localemergencyelectrician.com/locations/oklahoma"
+          },
+          {
+            "@type": "ListItem",
+            "position": 37,
+            "name": "Electrician in Pennsylvania",
+            "url": "https://localemergencyelectrician.com/locations/pennsylvania"
+          },
+          {
+            "@type": "ListItem",
+            "position": 38,
+            "name": "Electrician in Rhode Island",
+            "url": "https://localemergencyelectrician.com/locations/rhode-island"
+          },
+          {
+            "@type": "ListItem",
+            "position": 39,
+            "name": "Electrician in South Carolina",
+            "url": "https://localemergencyelectrician.com/locations/south-carolina"
+          },
+          {
+            "@type": "ListItem",
+            "position": 40,
+            "name": "Electrician in Tennessee",
+            "url": "https://localemergencyelectrician.com/locations/tennessee"
+          },
+          {
+            "@type": "ListItem",
+            "position": 41,
+            "name": "Electrician in Texas",
+            "url": "https://localemergencyelectrician.com/locations/texas"
+          },
+          {
+            "@type": "ListItem",
+            "position": 42,
+            "name": "Electrician in Utah",
+            "url": "https://localemergencyelectrician.com/locations/utah"
+          },
+          {
+            "@type": "ListItem",
+            "position": 43,
+            "name": "Electrician in Virginia",
+            "url": "https://localemergencyelectrician.com/locations/virginia"
+          },
+          {
+            "@type": "ListItem",
+            "position": 44,
+            "name": "Electrician in Washington",
+            "url": "https://localemergencyelectrician.com/locations/washington"
+          },
+          {
+            "@type": "ListItem",
+            "position": 45,
+            "name": "Electrician in West Virginia",
+            "url": "https://localemergencyelectrician.com/locations/west-virginia"
+          },
+          {
+            "@type": "ListItem",
+            "position": 46,
+            "name": "Electrician in Wisconsin",
+            "url": "https://localemergencyelectrician.com/locations/wisconsin"
+          },
+          {
+            "@type": "ListItem",
+            "position": 47,
+            "name": "Electrician in Wyoming",
+            "url": "https://localemergencyelectrician.com/locations/wyoming"
+          }
+        ]
+      }
+    }
+  ]
+}
+

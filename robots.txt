@@ -1,3 +1,31 @@
+# robots.txt for https://localemergencyelectrician.com/
 User-agent: *
 Allow: /
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /*?*utm_
+Disallow: /*?*sessionid=
+
+# AI / LLM crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 Sitemap: https://localemergencyelectrician.com/sitemap.xml

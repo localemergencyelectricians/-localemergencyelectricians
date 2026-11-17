@@ -5,14 +5,17 @@
 Business details:
 - Address: 2701 S Figueroa St, Los Angeles, CA 90007
 - Phone: +1-844-957-4676
-- Hours: Monday to Saturday, 8:00 AM to 6:00 PM
-- Founded: 2011 in Los Angeles, CA
-- Payments: Visa, Mastercard, American Express, Discover, PayPal, cash
+- Hours: Monday to Saturday, 8:00 AM to 6:00 PM (closed Sunday)
+- Founded: 2011 in Los Angeles, CA, by Jennifer
+- Payments: Visa, Mastercard, American Express, Discover, PayPal, Cash
+- Price range: $$
+- Service model: headquartered in Los Angeles; services outside the Los Angeles area are delivered through contractor agreements with local licensed electricians.
+- Coverage: 10,633 cities across 49 states and the District of Columbia.
 
 ## Main pages
 - [Home](https://localemergencyelectrician.com/): Overview of services and how to book
 - [All Services](https://localemergencyelectrician.com/services/): Full list of electrical services
-- [About](https://localemergencyelectrician.com/about): Company background and team
+- [About](https://localemergencyelectrician.com/about): Company background
 - [Contact](https://localemergencyelectrician.com/contact): Request a quote or service call
 
 ## Repair and installation
@@ -42,53 +45,55 @@ Business details:
 
 ## Service locations
 - [All Locations](https://localemergencyelectrician.com/locations/): Overview of every area we serve
-- [Electrician in Alabama](https://localemergencyelectrician.com/locations/alabama): Emergency and scheduled electrical services in Alabama
-- [Electrician in Arizona](https://localemergencyelectrician.com/locations/arizona): Emergency and scheduled electrical services in Arizona
-- [Electrician in Arkansas](https://localemergencyelectrician.com/locations/arkansas): Emergency and scheduled electrical services in Arkansas
-- [Electrician in California](https://localemergencyelectrician.com/locations/california): Emergency and scheduled electrical services in California
-- [Electrician in Colorado](https://localemergencyelectrician.com/locations/colorado): Emergency and scheduled electrical services in Colorado
-- [Electrician in Connecticut](https://localemergencyelectrician.com/locations/connecticut): Emergency and scheduled electrical services in Connecticut
-- [Electrician in Delaware](https://localemergencyelectrician.com/locations/delaware): Emergency and scheduled electrical services in Delaware
-- [Electrician in District of Columbia](https://localemergencyelectrician.com/locations/district-of-columbia): Emergency and scheduled electrical services in District of Columbia
-- [Electrician in Florida](https://localemergencyelectrician.com/locations/florida): Emergency and scheduled electrical services in Florida
-- [Electrician in Georgia](https://localemergencyelectrician.com/locations/georgia): Emergency and scheduled electrical services in Georgia
-- [Electrician in Hawaii](https://localemergencyelectrician.com/locations/hawaii): Emergency and scheduled electrical services in Hawaii
-- [Electrician in Idaho](https://localemergencyelectrician.com/locations/idaho): Emergency and scheduled electrical services in Idaho
-- [Electrician in Illinois](https://localemergencyelectrician.com/locations/illinois): Emergency and scheduled electrical services in Illinois
-- [Electrician in Indiana](https://localemergencyelectrician.com/locations/indiana): Emergency and scheduled electrical services in Indiana
-- [Electrician in Iowa](https://localemergencyelectrician.com/locations/iowa): Emergency and scheduled electrical services in Iowa
-- [Electrician in Kansas](https://localemergencyelectrician.com/locations/kansas): Emergency and scheduled electrical services in Kansas
-- [Electrician in Kentucky](https://localemergencyelectrician.com/locations/kentucky): Emergency and scheduled electrical services in Kentucky
-- [Electrician in Louisiana](https://localemergencyelectrician.com/locations/louisiana): Emergency and scheduled electrical services in Louisiana
-- [Electrician in Maine](https://localemergencyelectrician.com/locations/maine): Emergency and scheduled electrical services in Maine
-- [Electrician in Maryland](https://localemergencyelectrician.com/locations/maryland): Emergency and scheduled electrical services in Maryland
-- [Electrician in Massachusetts](https://localemergencyelectrician.com/locations/massachusetts): Emergency and scheduled electrical services in Massachusetts
-- [Electrician in Michigan](https://localemergencyelectrician.com/locations/michigan): Emergency and scheduled electrical services in Michigan
-- [Electrician in Minnesota](https://localemergencyelectrician.com/locations/minnesota): Emergency and scheduled electrical services in Minnesota
-- [Electrician in Mississippi](https://localemergencyelectrician.com/locations/mississippi): Emergency and scheduled electrical services in Mississippi
-- [Electrician in Missouri](https://localemergencyelectrician.com/locations/missouri): Emergency and scheduled electrical services in Missouri
-- [Electrician in Montana](https://localemergencyelectrician.com/locations/montana): Emergency and scheduled electrical services in Montana
-- [Electrician in Nebraska](https://localemergencyelectrician.com/locations/nebraska): Emergency and scheduled electrical services in Nebraska
-- [Electrician in Nevada](https://localemergencyelectrician.com/locations/nevada): Emergency and scheduled electrical services in Nevada
-- [Electrician in New Hampshire](https://localemergencyelectrician.com/locations/new-hampshire): Emergency and scheduled electrical services in New Hampshire
-- [Electrician in New Jersey](https://localemergencyelectrician.com/locations/new-jersey): Emergency and scheduled electrical services in New Jersey
-- [Electrician in New Mexico](https://localemergencyelectrician.com/locations/new-mexico): Emergency and scheduled electrical services in New Mexico
-- [Electrician in New York](https://localemergencyelectrician.com/locations/new-york): Emergency and scheduled electrical services in New York
-- [Electrician in North Carolina](https://localemergencyelectrician.com/locations/north-carolina): Emergency and scheduled electrical services in North Carolina
-- [Electrician in North Dakota](https://localemergencyelectrician.com/locations/north-dakota): Emergency and scheduled electrical services in North Dakota
-- [Electrician in Ohio](https://localemergencyelectrician.com/locations/ohio): Emergency and scheduled electrical services in Ohio
-- [Electrician in Oklahoma](https://localemergencyelectrician.com/locations/oklahoma): Emergency and scheduled electrical services in Oklahoma
-- [Electrician in Pennsylvania](https://localemergencyelectrician.com/locations/pennsylvania): Emergency and scheduled electrical services in Pennsylvania
-- [Electrician in Rhode Island](https://localemergencyelectrician.com/locations/rhode-island): Emergency and scheduled electrical services in Rhode Island
-- [Electrician in South Carolina](https://localemergencyelectrician.com/locations/south-carolina): Emergency and scheduled electrical services in South Carolina
-- [Electrician in Tennessee](https://localemergencyelectrician.com/locations/tennessee): Emergency and scheduled electrical services in Tennessee
-- [Electrician in Texas](https://localemergencyelectrician.com/locations/texas): Emergency and scheduled electrical services in Texas
-- [Electrician in Utah](https://localemergencyelectrician.com/locations/utah): Emergency and scheduled electrical services in Utah
-- [Electrician in Virginia](https://localemergencyelectrician.com/locations/virginia): Emergency and scheduled electrical services in Virginia
-- [Electrician in Washington](https://localemergencyelectrician.com/locations/washington): Emergency and scheduled electrical services in Washington
-- [Electrician in West Virginia](https://localemergencyelectrician.com/locations/west-virginia): Emergency and scheduled electrical services in West Virginia
-- [Electrician in Wisconsin](https://localemergencyelectrician.com/locations/wisconsin): Emergency and scheduled electrical services in Wisconsin
-- [Electrician in Wyoming](https://localemergencyelectrician.com/locations/wyoming): Emergency and scheduled electrical services in Wyoming
+- [Electrician in Alabama](https://localemergencyelectrician.com/locations/alabama/): Emergency and scheduled electrical services in Alabama (254 cities served)
+- [Electrician in Alaska](https://localemergencyelectrician.com/locations/alaska/): Emergency and scheduled electrical services in Alaska (2 cities served)
+- [Electrician in Arizona](https://localemergencyelectrician.com/locations/arizona/): Emergency and scheduled electrical services in Arizona (82 cities served)
+- [Electrician in Arkansas](https://localemergencyelectrician.com/locations/arkansas/): Emergency and scheduled electrical services in Arkansas (77 cities served)
+- [Electrician in California](https://localemergencyelectrician.com/locations/california/): Emergency and scheduled electrical services in California (915 cities served)
+- [Electrician in Colorado](https://localemergencyelectrician.com/locations/colorado/): Emergency and scheduled electrical services in Colorado (122 cities served)
+- [Electrician in Connecticut](https://localemergencyelectrician.com/locations/connecticut/): Emergency and scheduled electrical services in Connecticut (195 cities served)
+- [Electrician in Delaware](https://localemergencyelectrician.com/locations/delaware/): Emergency and scheduled electrical services in Delaware (26 cities served)
+- [Electrician in District of Columbia](https://localemergencyelectrician.com/locations/district-of-columbia/): Emergency and scheduled electrical services in District of Columbia (2 cities served)
+- [Electrician in Florida](https://localemergencyelectrician.com/locations/florida/): Emergency and scheduled electrical services in Florida (357 cities served)
+- [Electrician in Georgia](https://localemergencyelectrician.com/locations/georgia/): Emergency and scheduled electrical services in Georgia (251 cities served)
+- [Electrician in Hawaii](https://localemergencyelectrician.com/locations/hawaii/): Emergency and scheduled electrical services in Hawaii (14 cities served)
+- [Electrician in Idaho](https://localemergencyelectrician.com/locations/idaho/): Emergency and scheduled electrical services in Idaho (99 cities served)
+- [Electrician in Illinois](https://localemergencyelectrician.com/locations/illinois/): Emergency and scheduled electrical services in Illinois (237 cities served)
+- [Electrician in Indiana](https://localemergencyelectrician.com/locations/indiana/): Emergency and scheduled electrical services in Indiana (262 cities served)
+- [Electrician in Iowa](https://localemergencyelectrician.com/locations/iowa/): Emergency and scheduled electrical services in Iowa (395 cities served)
+- [Electrician in Kansas](https://localemergencyelectrician.com/locations/kansas/): Emergency and scheduled electrical services in Kansas (100 cities served)
+- [Electrician in Kentucky](https://localemergencyelectrician.com/locations/kentucky/): Emergency and scheduled electrical services in Kentucky (125 cities served)
+- [Electrician in Louisiana](https://localemergencyelectrician.com/locations/louisiana/): Emergency and scheduled electrical services in Louisiana (181 cities served)
+- [Electrician in Maine](https://localemergencyelectrician.com/locations/maine/): Emergency and scheduled electrical services in Maine (56 cities served)
+- [Electrician in Maryland](https://localemergencyelectrician.com/locations/maryland/): Emergency and scheduled electrical services in Maryland (234 cities served)
+- [Electrician in Massachusetts](https://localemergencyelectrician.com/locations/massachusetts/): Emergency and scheduled electrical services in Massachusetts (490 cities served)
+- [Electrician in Michigan](https://localemergencyelectrician.com/locations/michigan/): Emergency and scheduled electrical services in Michigan (136 cities served)
+- [Electrician in Minnesota](https://localemergencyelectrician.com/locations/minnesota/): Emergency and scheduled electrical services in Minnesota (225 cities served)
+- [Electrician in Mississippi](https://localemergencyelectrician.com/locations/mississippi/): Emergency and scheduled electrical services in Mississippi (62 cities served)
+- [Electrician in Missouri](https://localemergencyelectrician.com/locations/missouri/): Emergency and scheduled electrical services in Missouri (201 cities served)
+- [Electrician in Montana](https://localemergencyelectrician.com/locations/montana/): Emergency and scheduled electrical services in Montana (5 cities served)
+- [Electrician in Nebraska](https://localemergencyelectrician.com/locations/nebraska/): Emergency and scheduled electrical services in Nebraska (29 cities served)
+- [Electrician in Nevada](https://localemergencyelectrician.com/locations/nevada/): Emergency and scheduled electrical services in Nevada (60 cities served)
+- [Electrician in New Hampshire](https://localemergencyelectrician.com/locations/new-hampshire/): Emergency and scheduled electrical services in New Hampshire (115 cities served)
+- [Electrician in New Jersey](https://localemergencyelectrician.com/locations/new-jersey/): Emergency and scheduled electrical services in New Jersey (570 cities served)
+- [Electrician in New Mexico](https://localemergencyelectrician.com/locations/new-mexico/): Emergency and scheduled electrical services in New Mexico (9 cities served)
+- [Electrician in New York](https://localemergencyelectrician.com/locations/new-york/): Emergency and scheduled electrical services in New York (775 cities served)
+- [Electrician in North Carolina](https://localemergencyelectrician.com/locations/north-carolina/): Emergency and scheduled electrical services in North Carolina (350 cities served)
+- [Electrician in North Dakota](https://localemergencyelectrician.com/locations/north-dakota/): Emergency and scheduled electrical services in North Dakota (3 cities served)
+- [Electrician in Ohio](https://localemergencyelectrician.com/locations/ohio/): Emergency and scheduled electrical services in Ohio (591 cities served)
+- [Electrician in Oklahoma](https://localemergencyelectrician.com/locations/oklahoma/): Emergency and scheduled electrical services in Oklahoma (234 cities served)
+- [Electrician in Oregon](https://localemergencyelectrician.com/locations/oregon/): Emergency and scheduled electrical services in Oregon (131 cities served)
+- [Electrician in Pennsylvania](https://localemergencyelectrician.com/locations/pennsylvania/): Emergency and scheduled electrical services in Pennsylvania (858 cities served)
+- [Electrician in Rhode Island](https://localemergencyelectrician.com/locations/rhode-island/): Emergency and scheduled electrical services in Rhode Island (70 cities served)
+- [Electrician in South Carolina](https://localemergencyelectrician.com/locations/south-carolina/): Emergency and scheduled electrical services in South Carolina (189 cities served)
+- [Electrician in South Dakota](https://localemergencyelectrician.com/locations/south-dakota/): Emergency and scheduled electrical services in South Dakota (1 city served)
+- [Electrician in Tennessee](https://localemergencyelectrician.com/locations/tennessee/): Emergency and scheduled electrical services in Tennessee (145 cities served)
+- [Electrician in Texas](https://localemergencyelectrician.com/locations/texas/): Emergency and scheduled electrical services in Texas (478 cities served)
+- [Electrician in Utah](https://localemergencyelectrician.com/locations/utah/): Emergency and scheduled electrical services in Utah (115 cities served)
+- [Electrician in Virginia](https://localemergencyelectrician.com/locations/virginia/): Emergency and scheduled electrical services in Virginia (144 cities served)
+- [Electrician in Washington](https://localemergencyelectrician.com/locations/washington/): Emergency and scheduled electrical services in Washington (298 cities served)
+- [Electrician in West Virginia](https://localemergencyelectrician.com/locations/west-virginia/): Emergency and scheduled electrical services in West Virginia (266 cities served)
+- [Electrician in Wisconsin](https://localemergencyelectrician.com/locations/wisconsin/): Emergency and scheduled electrical services in Wisconsin (89 cities served)
+- [Electrician in Wyoming](https://localemergencyelectrician.com/locations/wyoming/): Emergency and scheduled electrical services in Wyoming (8 cities served)
 
-## Optional
-- [Sitemap](https://localemergencyelectrician.com/sitemap.xml)
+City pages live under /locations/<state>/<city>/, for example https://localemergencyelectrician.com/locations/california/los-angeles/ — 10,633 city pages in total. Vermont is not currently covered.
